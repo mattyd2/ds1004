@@ -1,19 +1,41 @@
+fjh347
 *   badcfc1 5th on master
-|\  
+|\
 | *   10f2e05 4th on master
-| |\  
+| |\
 | | * c57225b 3th on master
 * | |   eccf0ee 2nd on b3
-|\ \ \  
-| |/ /  
-|/| |   
+|\ \ \
+| |/ /
+|/| |
 | * | 0c43583 1st on b3
 * | |   3ffddb2 2nd on b1
-|\ \ \  
-| |/ /  
-|/| /   
-| |/    
+|\ \ \
+| |/ /
+|/| /
+| |/
 | * 3bc8a9f 2nd on master
 * | 27cbce6 1st on b1
-|/  
+|/
 * c99494e 1st on master
+
+mtd368
+*   a3450f9 9th commit (5th on master)
+|\
+| *   e639b3c 7th commit (3rd branch1)
+| |\
+| | * 60de7c1 3rd commit (1st on branch2)
+* | |   e3ea62a 8th commit (4th on master)
+|\ \ \
+| |/ /
+| * |   57d9d3f 6th commit (2nd on branch2)
+| |\ \
+| | |/
+| |/|
+| * | 7889509 2nd commit (1st on branch1)
+* | | 350205f 5th commit (3rd on master)
+| |/
+|/|
+* | 737dec5 4th commit (2nd on master)
+|/
+* 8d2eb2e 1st commit (1st on master)
