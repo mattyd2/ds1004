@@ -19,6 +19,27 @@ kve216
 |/
 * cf15553 1st commit, 1st on master
 
+mch529
+*   bb51ad9 commit 9, 5th on master
+|\
+| *   4330ccd 7th commit, third on branch 1
+| |\
+| | * d5bed65 3rd commit , first on branch
+* | |   a54ed60 commit 8, 4th on master
+|\ \ \
+| |/ /
+| * |   dcb67e4 Merge branch 'branch3' into branch1
+| |\ \
+| | |/
+| |/|
+| * | 80ba439 2nd commit, first on branch1
+* | | c15cb4f 5th commit, 3rd on master
+| |/
+|/|
+* | 6374f5f 4th commit, second on master
+|/
+* 89345b9 1st commit (1st on master
+
 mtd368
 *   a3450f9 9th commit (5th on master)
 |\
@@ -39,3 +60,24 @@ mtd368
 * | 737dec5 4th commit (2nd on master)
 |/
 * 8d2eb2e 1st commit (1st on master)
+
+rjh347
+*   badcfc1 5th on master
+|\
+| *   10f2e05 4th on master
+| |\
+| | * c57225b 3th on master
+* | |   eccf0ee 2nd on b3
+|\ \ \
+| |/ /
+|/| |
+| * | 0c43583 1st on b3
+* | |   3ffddb2 2nd on b1
+|\ \ \
+| |/ /
+|/| /
+| |/
+| * 3bc8a9f 2nd on master
+* | 27cbce6 1st on b1
+|/
+* c99494e 1st on master
